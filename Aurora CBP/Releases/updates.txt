@@ -1,4 +1,5 @@
-1.8.0-0.1=https://raw.githubusercontent.com/Aurora-Modders/AuroraCBP/master/Releases/AuroraCBP-1.8.0-0.1.zip
-1.8.0-0.2=https://raw.githubusercontent.com/Aurora-Modders/AuroraCBP/master/Releases/AuroraCBP-1.8.0-0.2.zip
-1.8.0-0.3=https://raw.githubusercontent.com/Aurora-Modders/AuroraCBP/master/Releases/AuroraCBP-1.8.0-0.3.zip
-1.8.0-0.4=https://raw.githubusercontent.com/Aurora-Modders/AuroraCBP/master/Releases/AuroraCBP-1.8.0-0.4.zip
+1.8.0-0.1=https://raw.githubusercontent.com/Aurora-Modders/AuroraCBP/master/Aurora%20CBP/Releases/AuroraCBP-1.8.0-0.1.zip
+1.8.0-0.2=https://raw.githubusercontent.com/Aurora-Modders/AuroraCBP/master/Aurora%20CBP/Releases/AuroraCBP-1.8.0-0.2.zip
+1.8.0-0.3=https://raw.githubusercontent.com/Aurora-Modders/AuroraCBP/master/Aurora%20CBP/Releases/AuroraCBP-1.8.0-0.3.zip
+1.8.0-0.4=https://raw.githubusercontent.com/Aurora-Modders/AuroraCBP/master/Aurora%20CBP/Releases/AuroraCBP-1.8.0-0.4.zip
+1.8.0-0.5=https://raw.githubusercontent.com/Aurora-Modders/AuroraCBP/master/Aurora%20CBP/Releases/AuroraCBP-1.8.0-0.5.zip
