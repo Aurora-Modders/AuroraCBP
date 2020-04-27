@@ -1,1 +1,2 @@
 1.8.0-0.1=https://github.com/Aurora-Modders/AuroraCBP/blob/master/Releases/AuroraCBP-1.8.0-0.1.zip
+1.8.0-0.1=https://github.com/Aurora-Modders/AuroraCBP/blob/master/Releases/AuroraCBP-1.8.0-0.2.zip
